@@ -47,10 +47,10 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
   - CentralAir_Y
 - Some readings from the models:
   - GrLivArea: An increase of 1 sqft of the living area will increase the sale price by 1.09 (Ridge) to 1.11 (Lasso) times
-  - Neighborhood_Crawfor: If Crawford is a nearby location to a house, the sale price of house will increase by 1.07 to 1.09 times
+  - Neighborhood_Crawfor: If Crawford is a nearby location to a house, the sale price of house will increase by 1.08 to 1.09 times
   - OverallQual_8: If the overall material and finish of the house is "Very Good", the sale price will increase by 1.08 to 1.11 times. In case of OverallQual_9 ("Excellent"), the sale price will increase by 1.08 to 1.14
-  - Functional_Typ: For a house with "Typical Functionality", the sale price will increase by 1.06 to 1.08 times
-  - Exterior1st_BrkFace: For a house with "Brick Face" exterior covering, the sale price will increase by 1.06 to 1.07 times.
+  - Functional_Typ: For a house with "Typical Functionality", the sale price will increase by 1.07 to 1.08 times
+  - Exterior1st_BrkFace: For a house with "Brick Face" exterior covering, the sale price will increase by 1.07 times.
   - TotalBsmtSF: An increase of 1 sqft of basement area will increase the sale price by 1.04 times
 - Optimal Lambda Value
   - Ridge: 9
